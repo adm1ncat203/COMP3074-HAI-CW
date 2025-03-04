@@ -1,0 +1,12 @@
+Step,TransactionType,Question
+1,plane_booking,"Where are you flying from?"
+2,plane_booking,"Where are you flying to?"
+3,plane_booking,"What is your departure date?"
+4,plane_booking,"What is your return date (if it's a round trip)?"
+5,plane_booking,"How many passengers will be traveling?"
+6,plane_booking,"Would you like economy, premium economy, business, or first class?"
+7,hotel_booking,"Where will you be staying (city)?"
+8,hotel_booking,"What is your check-in date (YYYY-MM-DD)?"
+9,hotel_booking,"What is your check-out date (YYYY-MM-DD)?"
+10,hotel_booking,"How many guests will be staying?"
+11,hotel_booking,"What type of room would you like (single, double, suite)?"

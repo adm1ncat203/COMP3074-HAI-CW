@@ -1,0 +1,71 @@
+{
+  "keywords": {
+    "small_talk_greetings": [
+      "hi",
+      "hello",
+      "hey"
+    ],
+    "small_talk_status": [
+      "how are you",
+      "how are you doing",
+      "how's going"
+    ],
+    "small_talk_time": [
+      "what's the time",
+      "what time is it",
+      "current time",
+      "tell me the time",
+      "timezone"
+    ],
+    "small_talk_status_responses": [
+      "I'm fine, thank you! How can I assist you today?",
+      "I'm doing great, thank you for asking! How can I help you today?",
+      "I'm fine, ready to assist you!",
+      "All good here! Let me know how I can help.",
+      "Doing well, thanks! What can I do for you today?"
+    ],
+    "discoverability": [
+      "what can you do",
+      "help",
+      "features",
+      "tell me about yourself",
+      "how can you help"
+    ],
+    "identity_management": [
+      "my name is",
+      "call me",
+      "what is my name"
+    ],
+    "question_answering": [
+      "how",
+      "what",
+      "why",
+      "when",
+      "where"
+    ],
+    "transactions": {
+      "plane_booking": [
+        "book a flight",
+        "plane ticket",
+        "book a plane ticket",
+        "reserve a flight",
+        "flight booking",
+        "airline ticket"
+      ],
+      "hotel_booking": [
+        "book a hotel",
+        "reserve a hotel",
+        "hotel reservation",
+        "find a hotel",
+        "hotel booking"
+      ]
+    }
+  },
+  "exit_keywords": [
+    "exit",
+    "goodbye",
+    "bye",
+    "quit"
+  ],
+  "similarity_threshold": 0.5
+}
